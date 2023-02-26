@@ -1,4 +1,8 @@
   library("httr")
+
+cat("--------------------------------\n")
+cat("Function loaded: osm_nearby_locations()\n")
+
   
 #attributes:
   #date = "2022-10-28T19:20:00Z" # <- Format: YYYY-MM-DDThh:mm:ssZ (incl. "T" & "C") -> https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL#Date
